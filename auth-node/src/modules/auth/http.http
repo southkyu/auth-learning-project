@@ -1,0 +1,5 @@
+## health-check
+GET http://localhost:3001/health
+
+### Response 200
+POST http://localhost:3001/api/auth/login

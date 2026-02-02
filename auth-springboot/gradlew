@@ -1,0 +1,4 @@
+#!/bin/sh
+# Gradle wrapper script - 실제 프로젝트에서는 gradle wrapper 명령으로 생성
+echo "Please run: gradle wrapper"
+exit 1
